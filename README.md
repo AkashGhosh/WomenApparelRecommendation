@@ -11,5 +11,5 @@ Python 3.6.3
 Jupyter iPython Notebook
 
 Contributors:
-Subharaj Bhowmik
+Subharaj Bhowmik,
 Srijan Roy Choudhury
